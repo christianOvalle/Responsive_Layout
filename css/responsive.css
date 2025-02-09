@@ -1,0 +1,342 @@
+@media (max-width:1250px) {
+    .wrap {
+        width: 90%;
+        margin: 0px auto;
+    }
+
+    .card {
+        width: 15.90%;
+        margin: 1.45%;
+    }
+
+    #articles {
+        width: 66%;
+    }
+
+    #articles article {
+        width: 98%;
+    }
+
+    #footer .wrap>div {
+        width: 25%;
+    }
+
+    #footer #browsers img {
+        width: 14%;
+    }
+
+    #footer h5 {
+        font-size: 30px;
+    }
+
+    #banner h1 {
+        font-size: 40px;
+        width: 100%;
+    }
+
+    .card p {
+        display: block;
+        width: 85%;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    #footer img {
+        width: 100%;
+    }
+}
+
+@media(max-width:1044px) {
+    .card .category {
+        font-size: 19px;
+    }
+
+    .card .description {
+        font-size: 14px;
+    }
+
+    #articles {
+        width: 64%;
+    }
+}
+
+@media(max-width:1066px) {
+    #footer h5 {
+        font-size: 24px;
+    }
+
+    #footer .wrap>div {
+        width: 23%;
+    }
+
+}
+
+@media(max-width:986px) {
+    #articles {
+        width: 62%;
+    }
+
+    #footer ul {
+        font-size: 21px;
+    }
+
+    .card .icon {
+        font-size: 47px;
+    }
+}
+
+@media(max-width:935px) {
+    #side {
+        width: 31%;
+    }
+
+    #login input[type="submit"] {
+        width: 41%;
+    }
+
+    #login input[type="email"],
+    #login input[type="password"] {
+        width: 77%;
+    }
+
+
+    #login input[type="reset"] {
+        display: none;
+    }
+
+    #footer h5 {
+        font-size: 22px;
+    }
+}
+
+@media(max-width:895px) {
+
+    #login input[type="reset"] {
+        display: none;
+    }
+
+    #banner h1 {
+        font-size: 36px;
+    }
+
+    #footer .wrap>div {
+        width: 22%;
+        margin: 30px;
+    }
+
+    #footer h5 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:813px) {
+    #footer h5 {
+        font-size: 18px;
+    }
+
+    #footer ul {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:757px) {
+    aside h3 {
+        font-size: 23px;
+    }
+
+    #login input[type="email"],
+    #login input[type="password"] {
+        width: 63%;
+    }
+
+    #login #user,
+    #login #password {
+        margin-left: 26px;
+    }
+
+    #footer h5 {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width:755px) {
+    #footer h5 {
+        font-weight: normal;
+    }
+
+    #side input[type="text"] {
+        width: 78%;
+    }
+
+    .card p {
+        display: none;
+    }
+
+    .card {
+        height: auto;
+    }
+
+    .card .category {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:729px) {
+
+    #header {
+        width: 100%;
+        height: 300px;
+        height: 120px;
+        padding-top: 10px;
+    }
+
+    #menu {
+        clear: both;
+        float: none;
+        width: 449px;
+        margin: 0px auto;
+    }
+
+    #logo {
+        float: none;
+        width: 200px;
+        margin: 0px auto;
+    }
+}
+
+@media (max-width:687px) {
+    #side {
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+        margin-top: 20px;
+    }
+
+    #articles {
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+    }
+
+    #banner h1 {
+        font-size: 30px;
+    }
+
+    #side input[type="text"] {
+        width: 92%;
+    }
+
+    #login input[type="email"],
+    #login input[type="password"] {
+        width: 87%;
+    }
+
+    #login input[type="submit"],
+    #login input[type="button"],
+    #login input[type="reset"],
+    #login button {
+        margin-left: 18px;
+        width: 24%;
+    }
+
+    #footer {
+        height: auto;
+        padding-bottom: 40px;
+    }
+
+    #footer .wrap>div {
+        width: 100%;
+        margin: 0px auto;
+        margin-top: 20px;
+    }
+
+    #footer h5 {
+        font-size: 30px;
+    }
+
+    #footer img {
+        width: 63%;
+    }
+
+    #footer #browsers img {
+        width: 9%;
+    }
+}
+
+@media (max-width:687px) {
+    #side input[type="text"] {
+        width: 91%;
+    }
+}
+
+
+@media (max-width:519px) {
+    #menu {
+        clear: both;
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    #logo {
+        float: left;
+    }
+
+    #menu ul li {
+        width: 100%;
+        line-height: 30px;
+    }
+
+    #menu ul li a {
+        width: 100%;
+        line-height: 52px;
+    }
+
+    #header {
+        width: 100%;
+        height: 275px;
+        padding-top: 10px;
+    }
+
+    #banner {
+        height: 85px;
+    }
+
+    .card .icon {
+        font-size: 35px;
+    }
+
+    .card:hover .icon {
+        font-size: 35px;
+    }
+
+    .card .category {
+        font-size: 14px;
+    }
+
+    #search {
+        width: 84%;
+    }
+
+    #side input[type="text"] {
+        width: 89%;
+    }
+
+    #menu ul li a:hover {
+        color: #37bcf9;
+        transform: scale(1, 1);
+    }
+
+    #articles .data {
+        float: none;
+        margin: -10px;
+        border-radius: 0px 0px 0px 0px;
+    }
+
+    #articles article h4 {
+        margin-top: 20px;
+    }
+}
